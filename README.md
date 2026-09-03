@@ -54,19 +54,19 @@ I’m **NatsuTech's 🇨🇬 (Alva Dev)**, a public developer building practical
     <td width="50%">
       <h3>⚡ DENTSU MD V10</h3>
       <p>WhatsApp multi-device project made for fast setup, experimentation and community use.</p>
-      <a href="https://github.com/kinggggg444/DENTSU-MD-V10">View repository →</a>
+      <a href="">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🧪 MINI-NATSU-MD</h3>
       <p>A smaller bot project for testing ideas and shipping quickly from a mobile workflow.</p>
-      <a href="https://github.com/kinggggg444/mini-dentsu-bot">View repository →</a>
+      <a href="">View repository →</a>
     </td>
     <td width="50%">
       <h3>🧰 NatsuTech Project</h3>
       <p>A multi-session WhatsApp project with pairing code and a growing command ecosystem.</p>
-      <a href="https://github.com/kinggggg444/NATSUTECH-PROJECT">View repository →</a>
+      <a href="">View repository →</a>
     </td>
   </tr>
 </table>
